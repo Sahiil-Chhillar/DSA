@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/0377-combination-sum-iv) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
