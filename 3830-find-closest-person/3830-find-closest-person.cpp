@@ -1,8 +1,6 @@
 class Solution {
 public:
     int findClosest(int x, int y, int z) {
-        int minX = abs(x-z);
-        int minY = abs(y-z);
-        return minX - minY == 0 ? 0 : (minX < minY) ? 1 : 2;
+        return abs(x-z) - abs(y-z) == 0 ? 0 : abs(x-z) < abs(y-z) ? 1 : 2;
     }
 };
