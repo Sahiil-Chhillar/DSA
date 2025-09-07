@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,8 +96,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
