@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
+| [0238-product-of-array-except-self](https://github.com/Sahiil-Chhillar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0322-coin-change) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sahiil-Chhillar/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
