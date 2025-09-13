@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sahiil-Chhillar/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0221-maximal-square](https://github.com/Sahiil-Chhillar/DSA/tree/master/0221-maximal-square) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sahiil-Chhillar/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bucket Sort
