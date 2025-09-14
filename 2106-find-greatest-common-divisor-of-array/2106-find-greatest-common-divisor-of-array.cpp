@@ -6,9 +6,16 @@ public:
         return gcd(b,a%b);
     }
     int findGCD(vector<int>& nums) {
-        int a = *min_element(nums.begin(),nums.end());
-        int b = *max_element(nums.begin(),nums.end());
+        // int a = *min_element(nums.begin(),nums.end());
+        // int b = *max_element(nums.begin(),nums.end());
+        
+        int maxi = INT_MIN;
+        int mini= INT_MAX;
+        for(auto& num : nums){
+            if(num > maxi) maxi = num;
+            if(num < mini) mini = num;
+        }
 
-        return gcd(a,b);
+        return gcd(maxi,mini);
     }
 };
