@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
