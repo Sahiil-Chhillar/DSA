@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sahiil-Chhillar/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sahiil-Chhillar/DSA/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Sahiil-Chhillar/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/Sahiil-Chhillar/DSA/tree/master/0221-maximal-square) |
