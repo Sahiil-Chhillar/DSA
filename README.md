@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Sahiil-Chhillar/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sahiil-Chhillar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sahiil-Chhillar/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
+| [0216-combination-sum-iii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
 | ------- |
