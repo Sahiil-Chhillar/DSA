@@ -7,13 +7,11 @@ public:
         }
         if(idx > candidates.size()-1 || sum > target) return;
 
-        // pick
         comb.push_back(candidates[idx]);
         f(idx+1,sum+candidates[idx],target,candidates,comb,result);
 
-        // not pick
         comb.pop_back();
-        while(idx + 1 < candidates.size() &&candidates[idx] == candidates[idx+1] ) idx++;
+        while(idx + 1 < candidates.size() &&candidates[idx] == candidates[idx+1]) idx++;
         f(idx+1,sum,target,candidates,comb,result);
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
@@ -25,7 +23,3 @@ public:
         return result;
     }
 };
-auto init=atexit([](){
-    ofstream("display_runtime.txt")<<"0";
-    // ofstream("display_memeory.txt")<<"0";
-});
