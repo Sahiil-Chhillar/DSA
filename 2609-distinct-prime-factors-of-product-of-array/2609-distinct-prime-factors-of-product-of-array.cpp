@@ -1,24 +1,18 @@
 class Solution {
 public:
     int distinctPrimeFactors(vector<int>& nums) {
-        set<int> count;
+        vector<int> isPF(1001,false);
         for(auto& num : nums){
-            
-            if(num%2 == 0) {
-                count.insert(2);
-                while(num%2 == 0) num /= 2;
-            }
-
-
-            for(int i = 3 ; i * i <= num ; i+=2){
-                if(num% i == 0){
-                    count.insert(i);
-                    while(num%i == 0) num /= i;
+            for(int i = 2 ; i * i <= num;i++){
+                if(num%i == 0){
+                    isPF[i] = true;
+                    while(num % i == 0) num /= i;
                 }
             }
-
-            if(num > 1) count.insert(num);
+            if(num > 1) isPF[num] = true;
         }
-        return count.size();
+        int cnt= 0;
+        for(int i = 2 ; i<= 1000;i++) if(isPF[i]) cnt++;
+        return cnt;
     }
 };
