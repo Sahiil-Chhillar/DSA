@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sahiil-Chhillar/DSA/tree/master/0036-valid-sudoku) |
+| [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahiil-Chhillar/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
 |  |
