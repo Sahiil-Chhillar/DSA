@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahiil-Chhillar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
+| [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sahiil-Chhillar/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
+| [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
+| [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
 |  |
