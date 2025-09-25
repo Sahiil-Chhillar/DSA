@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
 ## Prefix Sum
 |  |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
