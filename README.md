@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Depth-First Search
 |  |
@@ -251,4 +252,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
