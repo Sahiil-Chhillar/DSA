@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sahiil-Chhillar/DSA/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Sahiil-Chhillar/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sahiil-Chhillar/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sahiil-Chhillar/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
