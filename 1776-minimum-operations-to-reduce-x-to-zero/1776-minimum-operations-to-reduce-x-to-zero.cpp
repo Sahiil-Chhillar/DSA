@@ -25,7 +25,7 @@ public:
             }
 
             if (curSum == target) {
-                maxSubLength = std::max(maxSubLength, right - left + 1);
+                maxSubLength = max(maxSubLength, right - left + 1);
             }
         }
 
