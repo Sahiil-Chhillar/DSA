@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sahiil-Chhillar/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sahiil-Chhillar/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sahiil-Chhillar/DSA/tree/master/0115-distinct-subsequences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Sahiil-Chhillar/DSA/tree/master/0036-valid-sudoku) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
