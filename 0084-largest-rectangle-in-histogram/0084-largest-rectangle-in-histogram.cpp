@@ -19,31 +19,58 @@
 // };
 
 
+// class Solution {
+// public:
+//     int largestRectangleArea(vector<int>& heights) {
+//         int n = heights.size();
+//         int maxArea = 0;
 
+//         vector<int> l(n,0);
+//         stack<int> st;
+//         for(int i = 0 ; i < n ; i++){
+//             while(!st.empty() && heights[st.top()] >= heights[i]) st.pop();
+//             l[i] = st.empty() ? -1: st.top();
+//             st.push(i);
+//         }
+//         vector<int> r(n,0);
+//         st = stack<int>();
+//         for(int i = n-1;i>=0; i--){
+//             while(!st.empty() && heights[st.top()] >= heights[i]) st.pop();
+//             r[i] = st.empty() ? n : st.top();
+//             st.push(i);
+//         }
+
+//         for(int i = 0 ;  i< n ;i++){
+//             int currArea = heights[i] * (r[i] - l[i] -1);
+//             maxArea = max(currArea , maxArea);
+//         }
+
+//         return maxArea;
+//     }
+// };
+
+// try to ommit space complexity for that extra l and r vector ;
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int n = heights.size();
-        int maxArea = 0;
-
-        vector<int> l(n,0);
         stack<int> st;
-        for(int i = 0 ; i < n ; i++){
-            while(!st.empty() && heights[st.top()] >= heights[i]) st.pop();
-            l[i] = st.empty() ? -1: st.top();
-            st.push(i);
-        }
-        vector<int> r(n,0);
-        st = stack<int>();
-        for(int i = n-1;i>=0; i--){
-            while(!st.empty() && heights[st.top()] >= heights[i]) st.pop();
-            r[i] = st.empty() ? n : st.top();
+        int maxArea = 0;
+        int n = heights.size();
+        for(int i = 0 ; i < n;i++){
+            while(!st.empty() && heights[st.top()] > heights[i]){
+                int height = heights[st.top()]; st.pop();
+                int nse = i;
+                int pse = st.empty() ? -1 : st.top();
+                maxArea = max(maxArea , height * (nse - pse - 1));
+            }
             st.push(i);
         }
 
-        for(int i = 0 ;  i< n ;i++){
-            int currArea = heights[i] * (r[i] - l[i] -1);
-            maxArea = max(currArea , maxArea);
+        while(!st.empty()){
+            int height = heights[st.top()]; st.pop();
+            int nse = n;
+            int pse = st.empty() ? -1 : st.top();
+            maxArea = max(maxArea ,  height * (nse - pse - 1));
         }
 
         return maxArea;
