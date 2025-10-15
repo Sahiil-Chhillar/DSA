@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sahiil-Chhillar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Sahiil-Chhillar/DSA/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/Sahiil-Chhillar/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Sahiil-Chhillar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Sahiil-Chhillar/DSA/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahiil-Chhillar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0503-next-greater-element-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sahiil-Chhillar/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sahiil-Chhillar/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
