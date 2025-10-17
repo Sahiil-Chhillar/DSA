@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/Sahiil-Chhillar/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sahiil-Chhillar/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sahiil-Chhillar/DSA/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/Sahiil-Chhillar/DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Sahiil-Chhillar/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Sahiil-Chhillar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sahiil-Chhillar/DSA/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/Sahiil-Chhillar/DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
