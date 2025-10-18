@@ -9,9 +9,7 @@ public:
                 if (abs(s.top()) < abs(i)) {
                     s.pop();
                     continue;
-                } else if (abs(s.top()) == abs(i)) {
-                    s.pop();
-                }
+                } else if (abs(s.top()) == abs(i)) s.pop();
                 destroyed = true;
                 break;
             }
