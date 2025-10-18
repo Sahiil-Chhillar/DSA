@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sahiil-Chhillar/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sahiil-Chhillar/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sahiil-Chhillar/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
