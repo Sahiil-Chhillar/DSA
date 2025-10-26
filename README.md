@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0322-coin-change) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Graph
 |  |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sahiil-Chhillar/DSA/tree/master/0146-lru-cache) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
