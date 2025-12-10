@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Array
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1677-matrix-diagonal-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 ## Bucket Sort
 |  |
 | ------- |
