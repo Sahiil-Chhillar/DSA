@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Sahiil-Chhillar/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahiil-Chhillar/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Sahiil-Chhillar/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Sahiil-Chhillar/DSA/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Sahiil-Chhillar/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Sahiil-Chhillar/DSA/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sahiil-Chhillar/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
