@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahiil-Chhillar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sahiil-Chhillar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0234-palindrome-linked-list) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
