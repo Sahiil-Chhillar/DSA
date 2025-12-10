@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/Sahiil-Chhillar/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Sahiil-Chhillar/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sahiil-Chhillar/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sahiil-Chhillar/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sahiil-Chhillar/DSA/tree/master/0131-palindrome-partitioning) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sahiil-Chhillar/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Sahiil-Chhillar/DSA/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sahiil-Chhillar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sahiil-Chhillar/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Sahiil-Chhillar/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Sahiil-Chhillar/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
