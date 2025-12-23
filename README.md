@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sahiil-Chhillar/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2785-sort-vowels-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
