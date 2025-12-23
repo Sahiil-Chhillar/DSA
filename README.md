@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Sahiil-Chhillar/DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahiil-Chhillar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/Sahiil-Chhillar/DSA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
