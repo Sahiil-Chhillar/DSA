@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahiil-Chhillar/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sahiil-Chhillar/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sahiil-Chhillar/DSA/tree/master/0115-distinct-subsequences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Sahiil-Chhillar/DSA/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Sahiil-Chhillar/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sahiil-Chhillar/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sahiil-Chhillar/DSA/tree/master/0049-group-anagrams) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Sahiil-Chhillar/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sahiil-Chhillar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahiil-Chhillar/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahiil-Chhillar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/0496-next-greater-element-i) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahiil-Chhillar/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahiil-Chhillar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0503-next-greater-element-ii) |
