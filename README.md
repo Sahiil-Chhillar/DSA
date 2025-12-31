@@ -408,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sahiil-Chhillar/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
