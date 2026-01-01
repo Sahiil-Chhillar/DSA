@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2662-check-knight-tour-configuration](https://github.com/Sahiil-Chhillar/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2737-row-with-maximum-ones](https://github.com/Sahiil-Chhillar/DSA/tree/master/2737-row-with-maximum-ones) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sahiil-Chhillar/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Sahiil-Chhillar/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Matrix
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Bucket Sort
 |  |
