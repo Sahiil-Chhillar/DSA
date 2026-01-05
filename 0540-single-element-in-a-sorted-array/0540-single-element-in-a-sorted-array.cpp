@@ -1,6 +1,8 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
+
+        // way :- 1
         // unordered_map<int, int> freq;
         // for (auto& num : nums) {
         //     freq[num]++;
@@ -12,9 +14,12 @@ public:
 
         // return -1;
 
-        int unique = 0;
-        for(auto & num : nums) unique ^= num;
-        return unique;
+
+        // way :- 2
+        // int unique = 0;
+        // for(auto & num : nums) unique ^= num;
+        // return unique;
+
 
         int left = 0, right = nums.size() - 1;
         
