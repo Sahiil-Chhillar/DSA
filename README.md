@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sahiil-Chhillar/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sahiil-Chhillar/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sahiil-Chhillar/DSA/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/Sahiil-Chhillar/DSA/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Sahiil-Chhillar/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sahiil-Chhillar/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
