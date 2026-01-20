@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sahiil-Chhillar/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahiil-Chhillar/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahiil-Chhillar/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahiil-Chhillar/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahiil-Chhillar/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
