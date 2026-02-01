@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Sahiil-Chhillar/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0860-lemonade-change) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sahiil-Chhillar/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0967-minimum-falling-path-sum) |
