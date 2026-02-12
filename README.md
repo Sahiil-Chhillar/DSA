@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0860-lemonade-change) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/Sahiil-Chhillar/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/2785-sort-vowels-in-a-string) |
