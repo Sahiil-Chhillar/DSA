@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Sahiil-Chhillar/DSA/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Sahiil-Chhillar/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Sahiil-Chhillar/DSA/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sahiil-Chhillar/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Sahiil-Chhillar/DSA/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Sahiil-Chhillar/DSA/tree/master/0881-boats-to-save-people) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
