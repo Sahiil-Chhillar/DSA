@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0796-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahiil-Chhillar/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sahiil-Chhillar/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahiil-Chhillar/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Sahiil-Chhillar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
 | [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahiil-Chhillar/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sahiil-Chhillar/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahiil-Chhillar/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sahiil-Chhillar/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
