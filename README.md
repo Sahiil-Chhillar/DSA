@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3637-trionic-array-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3637-trionic-array-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3861-minimum-capacity-box](https://github.com/Sahiil-Chhillar/DSA/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/Sahiil-Chhillar/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Tree
 |  |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -525,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahiil-Chhillar/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
