@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sahiil-Chhillar/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Sahiil-Chhillar/DSA/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Graph
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Quickselect
 |  |
