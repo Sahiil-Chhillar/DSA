@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [2662-check-knight-tour-configuration](https://github.com/Sahiil-Chhillar/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Search
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Sahiil-Chhillar/DSA/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2662-check-knight-tour-configuration](https://github.com/Sahiil-Chhillar/DSA/tree/master/2662-check-knight-tour-configuration) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Graph
 |  |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
