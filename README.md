@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sahiil-Chhillar/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahiil-Chhillar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Sahiil-Chhillar/DSA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sahiil-Chhillar/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sahiil-Chhillar/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sahiil-Chhillar/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahiil-Chhillar/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -559,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
