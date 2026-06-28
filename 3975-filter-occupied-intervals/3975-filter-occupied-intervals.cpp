@@ -12,12 +12,9 @@ public:
         for(auto x : merged){
             int st = x[0];
             int end = x[1];
-            if(end < freeStart || st > freeEnd){
-                ans.push_back({st,end});
-                continue;
-            }
-            if(st < freeStart) ans.push_back({st, freeStart - 1});
-            if(end > freeEnd) ans.push_back({freeEnd + 1, end});
+
+            if (st < freeStart) ans.push_back({st, min(end, freeStart - 1)});
+            if (end > freeEnd) ans.push_back({max(st, freeEnd + 1), end});
         }
         return ans;
     }
