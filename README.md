@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3637-trionic-array-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3861-minimum-capacity-box](https://github.com/Sahiil-Chhillar/DSA/tree/master/3861-minimum-capacity-box) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Sahiil-Chhillar/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2662-check-knight-tour-configuration](https://github.com/Sahiil-Chhillar/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2737-row-with-maximum-ones](https://github.com/Sahiil-Chhillar/DSA/tree/master/2737-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -586,10 +590,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
