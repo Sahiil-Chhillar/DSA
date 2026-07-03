@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
+| [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3861-minimum-capacity-box](https://github.com/Sahiil-Chhillar/DSA/tree/master/3861-minimum-capacity-box) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
@@ -599,11 +604,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
 |  |
 | ------- |
