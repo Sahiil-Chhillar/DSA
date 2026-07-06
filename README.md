@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
+| [1288-remove-covered-intervals](https://github.com/Sahiil-Chhillar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sahiil-Chhillar/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sahiil-Chhillar/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Sahiil-Chhillar/DSA/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/Sahiil-Chhillar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sahiil-Chhillar/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahiil-Chhillar/DSA/tree/master/1833-maximum-ice-cream-bars) |
