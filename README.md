@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3637-trionic-array-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sahiil-Chhillar/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -674,4 +678,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sahiil-Chhillar/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sahiil-Chhillar/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
