@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Sahiil-Chhillar/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sahiil-Chhillar/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Sahiil-Chhillar/DSA/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sahiil-Chhillar/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Sahiil-Chhillar/DSA/tree/master/0443-string-compression) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/Sahiil-Chhillar/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Sahiil-Chhillar/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sahiil-Chhillar/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0503-next-greater-element-ii) |
