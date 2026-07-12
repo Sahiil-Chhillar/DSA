@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahiil-Chhillar/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sahiil-Chhillar/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sahiil-Chhillar/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/Sahiil-Chhillar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sahiil-Chhillar/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sahiil-Chhillar/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1646-kth-missing-positive-number](https://github.com/Sahiil-Chhillar/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahiil-Chhillar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Sahiil-Chhillar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sahiil-Chhillar/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahiil-Chhillar/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahiil-Chhillar/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
