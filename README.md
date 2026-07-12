@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Sahiil-Chhillar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Sahiil-Chhillar/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0322-coin-change) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Sahiil-Chhillar/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Sahiil-Chhillar/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahiil-Chhillar/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Segment Tree
 |  |
