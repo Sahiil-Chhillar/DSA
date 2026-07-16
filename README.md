@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
+| [0633-sum-of-square-numbers](https://github.com/Sahiil-Chhillar/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sahiil-Chhillar/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Sahiil-Chhillar/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sahiil-Chhillar/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Sahiil-Chhillar/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/Sahiil-Chhillar/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Sahiil-Chhillar/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/Sahiil-Chhillar/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Sahiil-Chhillar/DSA/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahiil-Chhillar/DSA/tree/master/0908-middle-of-the-linked-list) |
