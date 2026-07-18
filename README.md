@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sahiil-Chhillar/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Sahiil-Chhillar/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sahiil-Chhillar/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sahiil-Chhillar/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sahiil-Chhillar/DSA/tree/master/0072-edit-distance) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sahiil-Chhillar/DSA/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Sahiil-Chhillar/DSA/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Sahiil-Chhillar/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sahiil-Chhillar/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sahiil-Chhillar/DSA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Sahiil-Chhillar/DSA/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Sahiil-Chhillar/DSA/tree/master/0498-diagonal-traverse) |
