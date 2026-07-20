@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Sahiil-Chhillar/DSA/tree/master/1039-find-the-town-judge) |
+| [1260-shift-2d-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sahiil-Chhillar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sahiil-Chhillar/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Sahiil-Chhillar/DSA/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sahiil-Chhillar/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sahiil-Chhillar/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Sahiil-Chhillar/DSA/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sahiil-Chhillar/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1260-shift-2d-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/1260-shift-2d-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sahiil-Chhillar/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2662-check-knight-tour-configuration](https://github.com/Sahiil-Chhillar/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
