@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Array
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3862-find-the-smallest-balanced-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sahiil-Chhillar/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Bucket Sort
 |  |
 | ------- |
