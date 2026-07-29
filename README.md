@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3861-minimum-capacity-box](https://github.com/Sahiil-Chhillar/DSA/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Sahiil-Chhillar/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahiil-Chhillar/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sahiil-Chhillar/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
