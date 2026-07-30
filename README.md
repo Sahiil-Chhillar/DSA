@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Array
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahiil-Chhillar/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sahiil-Chhillar/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahiil-Chhillar/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
