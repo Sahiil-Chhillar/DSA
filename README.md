@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahiil-Chhillar/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1952-minimum-sideway-jumps](https://github.com/Sahiil-Chhillar/DSA/tree/master/1952-minimum-sideway-jumps) |
+| [2560-house-robber-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/2560-house-robber-iv) |
 | [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2007-find-original-array-from-doubled-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Array
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sahiil-Chhillar/DSA/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/Sahiil-Chhillar/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/Sahiil-Chhillar/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahiil-Chhillar/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sahiil-Chhillar/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahiil-Chhillar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahiil-Chhillar/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
