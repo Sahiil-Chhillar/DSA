@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Sahiil-Chhillar/DSA/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0518-coin-change-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Sahiil-Chhillar/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sahiil-Chhillar/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sahiil-Chhillar/DSA/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Sahiil-Chhillar/DSA/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahiil-Chhillar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sahiil-Chhillar/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sahiil-Chhillar/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
