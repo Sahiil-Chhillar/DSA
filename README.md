@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0377-combination-sum-iv](https://github.com/Sahiil-Chhillar/DSA/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/Sahiil-Chhillar/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Sahiil-Chhillar/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Sahiil-Chhillar/DSA/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Sahiil-Chhillar/DSA/tree/master/0861-flipping-an-image) |
+| [0877-stone-game](https://github.com/Sahiil-Chhillar/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Sahiil-Chhillar/DSA/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/Sahiil-Chhillar/DSA/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahiil-Chhillar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sahiil-Chhillar/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Sahiil-Chhillar/DSA/tree/master/0877-stone-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sahiil-Chhillar/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sahiil-Chhillar/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Sahiil-Chhillar/DSA/tree/master/0877-stone-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sahiil-Chhillar/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Sorting
 |  |
