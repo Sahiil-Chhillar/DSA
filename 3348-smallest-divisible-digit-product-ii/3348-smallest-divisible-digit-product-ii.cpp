@@ -35,7 +35,10 @@
 //     }
 // };
 
-// Second Approach Failed (nhi pta kyu fail hua h )
+// Second Approach(hint dekhne k baad ) 
+// Failed (nhi pta kyu fail hua h!! )
+
+
 // class Solution {
 // public:
 //     vector<vector<int>> digitFactors = {
@@ -263,13 +266,11 @@
 //     }
 // };
 
-// Chaapa hua code (WTH is this)
-// LeetCode 3348 - Smallest Divisible Digit Product II
-// Memory extreme: same greedy search, but no feasibility table.
-//
-// The only non-trivial minimum-length question is how many digits are needed to cover
-// the remaining 2/3 exponents. Trying 0..5 uses of digit 6 is sufficient because adding
-// six more 6s always costs one more digit than the equivalent 8/9 grouping.
+
+
+
+
+// Chaapa hua code (WTH is this) Streak matters !!
 
 #include <algorithm>
 #include <array>
