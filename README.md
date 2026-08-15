@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Sahiil-Chhillar/DSA/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/3637-trionic-array-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahiil-Chhillar/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sahiil-Chhillar/DSA/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3861-minimum-capacity-box](https://github.com/Sahiil-Chhillar/DSA/tree/master/3861-minimum-capacity-box) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2351-first-letter-to-appear-twice](https://github.com/Sahiil-Chhillar/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahiil-Chhillar/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahiil-Chhillar/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahiil-Chhillar/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
