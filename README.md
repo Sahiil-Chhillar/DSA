@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahiil-Chhillar/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sahiil-Chhillar/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Sahiil-Chhillar/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahiil-Chhillar/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahiil-Chhillar/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sahiil-Chhillar/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/1170-shortest-common-supersequence) |
