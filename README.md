@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Sahiil-Chhillar/DSA/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Sahiil-Chhillar/DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Sahiil-Chhillar/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahiil-Chhillar/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Sahiil-Chhillar/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahiil-Chhillar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sahiil-Chhillar/DSA/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Sahiil-Chhillar/DSA/tree/master/0856-score-of-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sahiil-Chhillar/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -784,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahiil-Chhillar/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Sahiil-Chhillar/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
