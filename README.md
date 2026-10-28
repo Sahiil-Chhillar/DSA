@@ -1,5 +1,22 @@
-# DSA
-A collection of LeetCode questions to ace the coding interview!
+# 🚀 Data Structures & Algorithms
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Expert-blueviolet?style=for-the-badge" alt="Problem Solving"/>
+</p>
+💡 A curated collection of LeetCode problems and DSA solutions to strengthen problem-solving skills and prepare for coding ,interviews.
+<br></br>
+
+🎯 What You’ll Find Here -
+* 🧩 Problem-Solving: Solutions to diverse algorithmic challenges.
+* ⚡ Optimized Approaches: Efficient solutions with time and space complexity analysis.
+* 📚 Core Concepts: Arrays, Strings, Trees, Graphs, Dynamic Programming, Greedy Algorithms, and more.
+* 💻 Language: C++
+
+<p align="center">
+  <b>Consistency • Problem Solving • Continuous Learning</b> 🚀
+</p>
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
