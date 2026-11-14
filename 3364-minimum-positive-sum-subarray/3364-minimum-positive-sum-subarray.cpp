@@ -1,23 +1,21 @@
 class Solution {
 public:
     int minimumSumSubarray(vector<int>& nums, int l, int r) {
-        const int n = nums.size();
-        int best = -1;
+        int n = nums.size();
+        int prefix[101];
+        prefix[0] = 0;
+        for (int i = 0; i < n; ++i) prefix[i + 1] = prefix[i] + nums[i];
 
+        int best = 100001;
         for (int start = 0; start < n; ++start) {
-            int sum = 0;
-            int endLimit = start + r;
-            if (endLimit > n) endLimit = n;
-
-            for (int end = start; end < endLimit; ++end) {
-                sum += nums[end];
-                int length = end - start + 1;
-                if (length < l || sum <= 0) continue;
+            for (int length = l; length <= r && start + length <= n; ++length) {
+                int sum = prefix[start + length] - prefix[start];
+                if (sum <= 0) continue;
                 if (sum == 1) return 1;
-                if (best == -1 || sum < best) best = sum;
+                if (sum < best) best = sum;
             }
         }
 
-        return best;
+        return best == 100001 ? -1 : best;
     }
 };
