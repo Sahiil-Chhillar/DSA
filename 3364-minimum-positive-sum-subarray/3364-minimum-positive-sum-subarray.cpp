@@ -7,12 +7,11 @@ public:
         for (int i = 0; i < n; ++i) prefix[i + 1] = prefix[i] + nums[i];
 
         int best = 100001;
-        for (int start = 0; start < n; ++start) {
-            for (int length = l; length <= r && start + length <= n; ++length) {
+        for (int length = l; length <= r; ++length) {
+            for (int start = 0; start + length <= n; ++start) {
                 int sum = prefix[start + length] - prefix[start];
-                if (sum <= 0) continue;
                 if (sum == 1) return 1;
-                if (sum < best) best = sum;
+                if (sum > 0 && sum < best) best = sum;
             }
         }
 
